@@ -6,11 +6,11 @@
 
 :root{                              /**/
     /*Color*/ 
-    --primary:#62929E;
-    --secondary:#546A7B;
+    --primary:#CD919E;
+    --secondary:#555555;
     --tertiary: #C6C5B9;
     --white: #ffffff;
-    --black: #393D3F;
+    --black: #262626;
 
     /*Font*/
     --roboto: 'Roboto', sans-serif;
